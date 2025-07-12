@@ -23,7 +23,7 @@ ALTER TABLE characters AUTO_INCREMENT = 1;
 INSERT INTO characters (name, health, attack, defense) VALUES 
 ('钟离', 13000, 2000, 800),
 ('甘雨', 10000, 2200, 700),
-('雷电将军', 11000, 2100, 750),
+('雷电将军', 11000, 2100, 50),
 ('温迪', 9000, 2300, 650),
 ('迪卢克', 12000, 2400, 780),
 ('琴', 10500, 2150, 720),
